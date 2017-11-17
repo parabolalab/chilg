@@ -1,0 +1,24 @@
+{
+  "name": "chilg",
+  "version": "1.0.0",
+  "description": "Simple logger for Chrome inspector console ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive /tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parabolalab/chilg.git"
+  },
+  "keywords": [
+    "console",
+    "logger",
+    "logs"
+  ],
+  "author": "Marcin Kalota",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/parabolalab/chilg/issues"
+  },
+  "homepage": "https://github.com/parabolalab/chilg#readme"
+}
